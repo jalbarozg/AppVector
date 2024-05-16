@@ -1,0 +1,47 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\bin\Debug\AppVector.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\bin\Debug\AppVector.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\bin\Debug\AppVector.exe
+D:\funciones c#\AppVector\AppVector\bin\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+F:\AppVector\AppVector\bin\Debug\AppVector.exe
+F:\AppVector\AppVector\bin\Debug\AppVector.pdb
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+D:\estructura de datos\AppVector\AppVector\bin\Debug\AppVector.exe
+D:\estructura de datos\AppVector\AppVector\bin\Debug\AppVector.pdb
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+D:\estructura de datos\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\bin\Debug\AppVector.exe
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\bin\Debug\AppVector.pdb
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\Users\informatica\Downloads\AppVector\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+C:\AppVector\AppVector\bin\Debug\AppVector.exe
+C:\AppVector\AppVector\bin\Debug\AppVector.pdb
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
